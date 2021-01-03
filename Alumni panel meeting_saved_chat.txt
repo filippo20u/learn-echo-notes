@@ -1,0 +1,100 @@
+15:17:45	 From LEARN Classroom Turing : Similar to the <div> and </div>
+15:30:42	 From LEARN Classroom Turing : Hello, World!
+15:30:46	 From LEARN Classroom Turing : Hello, Planet!
+15:30:53	 From Alan : default settings
+15:43:57	 From LEARN Classroom Turing : Hoisting comes to mind.
+15:44:52	 From LEARN Classroom Turing : Right, i’m looking into React Hoisting right now.
+16:00:50	 From Raul S : Im here
+16:01:00	 From Raul S : Just my brother moving stuff behind
+16:01:53	 From Raul S : Nice to meet you guys
+16:04:16	 From Raul S : You sounds broken up
+16:04:34	 From Brian Harrington : Same for me
+16:04:50	 From learnacademy : samee!!
+16:05:14	 From LEARN Classroom Turing : Garbled audio :(
+16:05:18	 From Matt Ramirez : Same its broken up for me
+16:09:02	 From Alan : it only gets worse
+16:14:52	 From learnacademy : Paige maybe it would be better with no AirPods ?
+16:15:14	 From learnacademy : Sometimes my AirPods do weird things lol
+16:15:17	 From Ryan S : Or join again idk
+16:15:23	 From LEARN Classroom Turing : Looks like a connection issue :(
+16:15:25	 From Alan : maybe its the wifi connection, or zoom because its been acting up
+16:15:46	 From Ara Jo : Restarting always help lol
+16:21:17	 From LEARN Classroom Turing : For those who don’t know EVT: Educational Vision Technologies
+16:21:34	 From Mina Chuong (she/her) : +1 thanks for clarifying! :D
+16:25:26	 From Ara Jo : ^^ thanks
+16:26:41	 From Ara Jo : TechHire San Diego: https://workforce.org/techhire/
+16:27:18	 From LEARN Classroom Turing : TechHire might not be working in most places in San Diego anymore, due to funding shortage as of recent. Definitely take a look to see if they are in your area.
+16:28:42	 From Ara Jo : ^^True. However, they also have their own job portal so you could get exclusive access. Also many workshops are provided like interview skills and resumes
+16:30:16	 From LEARN Classroom Turing : Aye, right now they are only accepting applicants from Chula Vista residents :)
+16:36:14	 From Alan : no pain no gain 
+16:36:31	 From Mina Chuong (she/her) : burn out prevention!
+16:37:27	 From Alan : programming memes gets you jobs
+16:49:29	 From Brian Harrington : Agree, no job is alike
+16:50:16	 From Alan : question-when does the pain stop
+16:50:24	 From Ara Jo : NEVER
+16:50:40	 From Alan : :'(
+16:51:02	 From Ara Jo : I guess if you decide it to be pain, it will be pain
+16:51:11	 From Ryan S : YES
+16:51:14	 From Ara Jo : but if you decide it to be learning struggling then it is :)
+16:51:16	 From Rachael : Dang ara so negative!
+16:51:22	 From Ryan S : lol
+16:51:25	 From Ara Jo : lol
+16:51:26	 From LEARN Classroom Turing : Fr! lol
+16:51:29	 From Alan : lmao its just fax
+16:51:35	 From Ara Jo : ^^
+16:51:48	 From Rachael : It doesn’t get easier necessarily but if you like it and enjoy your work, you’ll feel fulfilled.
+16:51:54	 From Mina Chuong (she/her) : Brian, I love that metaphor
+16:51:54	 From Alan : so the pain never stops good to know 
+16:51:58	 From Alan : jk lol
+16:53:14	 From Ara Jo : I personally think it gets easier when you know what question to ask in google...
+16:53:30	 From Ara Jo : in the beginning you don’t even know what to ask or how to form the question
+16:53:47	 From Alan : i just be asking like how do i do this lol
+16:53:47	 From Ara Jo : But once you know what you don’t know it gets easier
+16:53:52	 From LEARN Classroom Turing : First month google questions: “HOW MAKE CODE DO THING”
+16:53:55	 From Ara Jo : lol
+16:54:02	 From LEARN Classroom Turing : 4th mon google question: “How to define datatype in Javascript"
+16:54:08	 From Ara Jo : ^^^^^
+16:54:09	 From Alan : how to code for dummies
+16:54:52	 From Ara Jo : Yes, you will learn more terms and concepts as you go, so you will now what you don’t know and know what the term is for
+16:54:52	 From LEARN Classroom Turing : It definitely gets easier, because you learn how to utilize your tools of your trade properly to find the answers.
+16:55:59	 From LEARN Classroom Turing : First two weeks of wood working, a huge pain in the booty, no idea what tool to use to make the wood to the thing you want to. It the same concept in coding. You may have a garage full of tools, that can do a ton of cool things, but you need to take time to learn them. After awhile, you start realizing you can use the table saw to quickly cut wood, instead of a kitchen knife.
+16:56:56	 From Mina Chuong (she/her) : self-preservation is so important haha
+17:00:38	 From Ara Jo : Thank you for inviting us!
+17:00:46	 From LEARN Classroom Turing : Thanks guys! :)
+17:00:55	 From Rachael : Hi Paige <3
+17:01:00	 From Ara Jo : GOOD LUCK guys!!!
+17:01:04	 From Sami : Thanks for stopping by Alumni!
+17:01:06	 From Paige MacGregor : Hi Rachel!
+17:01:16	 From Sarah : Diem
+Drew
+David
+Matt M
+Brian
+Nate
+Bach
+Joel
+Chuck
+Sami
+Priscila
+Matt R
+Ryan
+Alejandro
+Chris
+Amanda
+Raul
+Filippo
+Summer
+Alan
+Andee
+Rachael
+Sarah
+17:01:27	 From Matt Ramirez : Thanks guys!! Very helpful.
+17:01:42	 From LEARN Classroom Turing : “We lerned"
+17:01:42	 From Mina Chuong (she/her) : Thank you everyone!  Absolutely reach out on linkedIn or email: Mina.chuong@gmail.com
+17:01:43	 From Brian Harrington : Feel free to message me on LinkedIn: https://www.linkedin.com/in/brianharrington715/  Best of luck everyone, enjoy the journey 👍
+17:02:05	 From Ryan Sarll : Thank you!!
+17:02:47	 From Paige MacGregor : Feel free to connect with me! Thanks guys https://www.linkedin.com/in/paige-macgregor/
+17:02:48	 From Drew Bradford : We found an extension called Test Explorer UI that’s pretty awesome
+17:03:04	 From Ara Jo : Connect with me in LinkedIn. I am happy to help you! https://www.linkedin.com/in/arajodeveloper/
+17:04:56	 From Drew Bradford : 2ish words
+17:05:05	 From Rachael : Roughly 2 words
