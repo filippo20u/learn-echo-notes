@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <title>Intro to React</title>
+
+  </head>
+  <body>
+
+    <div id="react-container"></div>
+
+    <script type="text/babel">
+      class HelloReact extends React.Component{
+        render(){
+          return(
+            <div>
+            <Header />
+            <Header />
+            <Header />
+            <h3>Hello React!</h3>
+            
+            <p>fuffolo </p>
+            </div>
+          )
+        }
+      }
+
+
+      class Header extends React.Component {
+          render(){
+            return(
+                <div>
+                    <h1>Hello World</h1>
+                </div>
+            )
+          }
+      }
+
+// you never touch this!!!!!!! I will call the react component header inside teh main componenet line 21, the placement matters, top to bottom
+      const domContainer = document.querySelector('#react-container');
+      ReactDOM.render(<HelloReact />, domContainer);
+    </script>
+  </body>
+</html>
+
+
+
+<!-- JSX JS html like line 19 h1 -->
+
+<!-- return: everything must be wrapped in one element, like a div -->
+<!-- <React.Fragment
+  <> </>
+  <div> </div>
+
+
+  DOM DOCUMENT OBJECT MODULE
+  line 29 word document talk to (dom document object module) it connects programming to the UI
+  react.dom visual representation of our code, if I update my code I need to updatem my dom
+
+  virtual dom is react specific
+
+  there's a sandbox aread that is checking between code and dom
+  it makes updates only where needed,  -->
+
+  <!-- recap:
+
+  library
+  every component requires a render and a return and return one method
+   -->
